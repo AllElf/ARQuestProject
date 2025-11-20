@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 122cca5bb5f684f4fa834749523f811a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240128
+  packageName: Imagine WebAR - Image Tracker
+  packageVersion: 1.8.0
+  assetPath: Assets/Imagine/ImageTracker/Demos/Scenes/Demo-Basic.unity
+  uploadId: 708684
