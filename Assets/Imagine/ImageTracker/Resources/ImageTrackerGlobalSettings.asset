@@ -41,6 +41,46 @@ MonoBehaviour:
     texture: {fileID: 2800000, guid: 094797ffd13a9734a9d920f47dc6bc11, type: 3}
   - id: 5
     texture: {fileID: 2800000, guid: 32e453babaac7c6469a52c55fe5ecda3, type: 3}
+  - id: K1
+    texture: {fileID: 2800000, guid: 30f22c9403580254592b596246ac7489, type: 3}
+  - id: K2
+    texture: {fileID: 2800000, guid: baaf1483e9758644997dc7ee1561d14d, type: 3}
+  - id: K3
+    texture: {fileID: 2800000, guid: 268b32c023b8e9948b00d60d6e963226, type: 3}
+  - id: K4
+    texture: {fileID: 2800000, guid: b26436a085d4f52458226323f32d90a0, type: 3}
+  - id: K5
+    texture: {fileID: 2800000, guid: 3f43d94b71dd2a846b01f6273649b523, type: 3}
+  - id: K6
+    texture: {fileID: 2800000, guid: bfd02ae7b5a0d04469f8a62b78c903cd, type: 3}
+  - id: K7
+    texture: {fileID: 2800000, guid: 3cbca42d951611047bd8c79dc32bd215, type: 3}
+  - id: K8
+    texture: {fileID: 2800000, guid: b8f3d32971baaa541bb9ebdc84949589, type: 3}
+  - id: K9
+    texture: {fileID: 2800000, guid: c7c133eb274fc9f43bcbd189b262d37e, type: 3}
+  - id: K10
+    texture: {fileID: 2800000, guid: 95077f7e44192f741ae897ad5e42cb7a, type: 3}
+  - id: K11
+    texture: {fileID: 2800000, guid: c72291126375fa74aaf56187495d3d4b, type: 3}
+  - id: K12
+    texture: {fileID: 2800000, guid: 99b62f90639538344bdb9fbb26870ff9, type: 3}
+  - id: K13
+    texture: {fileID: 2800000, guid: cc93ce7696327834485c3367ff456988, type: 3}
+  - id: K14
+    texture: {fileID: 2800000, guid: cabb2f4d855d2274a8bb1f8f9fe0fb72, type: 3}
+  - id: K15
+    texture: {fileID: 2800000, guid: 01ac79797ed67b4429d75ce8e627fa08, type: 3}
+  - id: K16
+    texture: {fileID: 2800000, guid: 14bd1850bde4e9d47b085e2a85e87a39, type: 3}
+  - id: K17
+    texture: {fileID: 2800000, guid: d0f99041fe4034e4aa1d3d09d1ea3c47, type: 3}
+  - id: K18
+    texture: {fileID: 2800000, guid: db8ac2e2672690540bd28dd015cfa516, type: 3}
+  - id: K19
+    texture: {fileID: 2800000, guid: 58b52fc87c10d26499befc3856e13588, type: 3}
+  - id: K20
+    texture: {fileID: 2800000, guid: 02cac41cd292bf14486a0d6f2b01de38, type: 3}
   settingsTemplates:
   - {fileID: 11400000, guid: 35c99cc7b662a46eb89cc7a32e239494, type: 2}
   - {fileID: 11400000, guid: 9cf415d375f91458483df57436950575, type: 2}
