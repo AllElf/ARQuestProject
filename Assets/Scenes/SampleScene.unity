@@ -7929,10 +7929,6 @@ MonoBehaviour:
     transform: {fileID: 5495724142869210118}
     targetPos: {x: 0, y: 0, z: 0}
     targetRot: {x: 0, y: 0, z: 0, w: 0}
-  - id: K14
-    transform: {fileID: 0}
-    targetPos: {x: 0, y: 0, z: 0}
-    targetRot: {x: 0, y: 0, z: 0, w: 0}
   - id: K15
     transform: {fileID: 7656555546701593456}
     targetPos: {x: 0, y: 0, z: 0}
